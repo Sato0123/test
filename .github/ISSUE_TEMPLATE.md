@@ -1,6 +1,6 @@
 ---
-name: タスク・要望
-about: 新しい機能やタスクの追加に使用します
+name: default
+about: 基本のissue-templateです。
 title: ''
 labels: ''
 assignees: ''
